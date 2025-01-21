@@ -1,14 +1,14 @@
-# todolist
+# To Do List
 
-This template should help get you started developing with Vue 3 in Vite.
+A to-do list application implemented in Vue 3.
 
-## Recommended IDE Setup
+Options:
+- Enter a title and add a task to the list
+- Delete tasks
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Demo: 
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+https://todolist.kamila-tech.pl/
 
 ## Project Setup
 
